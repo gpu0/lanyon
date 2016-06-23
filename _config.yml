@@ -2,22 +2,23 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-#relative_permalinks: true
+#relative_permalinks: false
 gems:
   - jekyll-paginate
+
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               Aditya Atluri
+tagline:             'My Blog'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+url:                 https://gpu0.github.io/
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Aditya Atluri
+  url:               https://twitter.com/adityaaatluri
+  email:             None
 
 # Custom vars
 version:             1.0.0
